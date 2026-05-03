@@ -20,7 +20,7 @@ Full-time **Data Scientist / ML Engineer** roles, ideally at the intersection of
 
 - **[Vehicle Damage Detector](https://github.com/rwandashi/vehicle-damage-detector)** — Fine-tuned YOLOv8m on 6,839 labeled images across 23 damage classes (dents, scratches, broken lights, cracked windshields). Achieved **0.793 mAP@0.5 / 0.826 F1** on a held-out validation set; packaged as a reproducible training/inference pipeline with weights hosted on Hugging Face Hub. *PyTorch · Ultralytics · Hugging Face · Gradio · Roboflow.* [Live demo →](https://huggingface.co/spaces/rwandashi/vehicle-damage-detector)
 
-- **[Georgia Rural Education Equity Dashboard](https://github.com/rwandashi/georgia-rural-education-equity)** — Interactive map of educational inequality across Georgia's 180 school districts, built from a composite equity index (rural isolation, instructional funding gap, child poverty, broadband access) using four federal datasets. *Python · pandas · geopandas · scikit-learn · folium.* [Live demo →](https://rwandashi.github.io/Rural-Education-Equity/)
+- **[Georgia Rural Education Equity Dashboard](https://github.com/rwandashi/Rural-Education-Equity)** — Interactive map of educational inequality across Georgia's 180 school districts, built from a composite equity index (rural isolation, instructional funding gap, child poverty, broadband access) using four federal datasets. *Python · pandas · geopandas · scikit-learn · folium.* [Live demo →](https://rwandashi.github.io/Rural-Education-Equity/)
 
 ## 📬 Get in touch
 
