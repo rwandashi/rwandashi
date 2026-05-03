@@ -8,9 +8,9 @@ Full-time **Data Scientist / ML Engineer** roles, ideally at the intersection of
 
 ## 🧪 Recent work
 
-- **The Home Depot** *(2026)* — Architected an 8-agent LLM pipeline on GCP/BigQuery (Gemini 2.5 Flash) converting unstructured delivery notes, driver observations, and Street View descriptions into a 27-attribute address profile. Validated on ~75K deliveries; cut LLM extraction cost to ~$0.003/record while delivering a 3.65× throughput gain.
+- **The Home Depot, United States** *(2026)* — Architected an 8-agent LLM pipeline on GCP/BigQuery (Gemini 2.5 Flash) converting unstructured delivery notes, driver observations, and Street View descriptions into a 27-attribute address profile. Validated on ~75K deliveries; cut LLM extraction cost to ~$0.003/record while delivering a 3.65× throughput gain.
 - **Ministry of Education, Rwanda** *(2024–2025)* — Built a PostgreSQL data warehouse unifying 50M+ records from 5,000+ schools across 8 source systems; supported policy decisions impacting 3M+ students.
-- **VIDA** *(2023)* — Deployed prescriptive optimization (DBSCAN, K-means, linear programming) to identify 500+ high-ROI electrification sites; influenced **$30M in World Bank funding** with 95% precision and 92% implementation success.
+- **VIDA, Germany** *(2023)* — Deployed prescriptive optimization (DBSCAN, K-means, linear programming) to identify 500+ high-ROI electrification sites; influenced **$30M in World Bank funding** with 95% precision and 92% implementation success.
 
 ## 🧰 Tech I reach for
 
